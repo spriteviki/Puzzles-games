@@ -1,12 +1,16 @@
-## 1.09;
-- 数据更新修复
+## 2.78;
+- Some translation updates / fixs
+- Prepared to introducing v3.0
+- Minor fixs
 
-## 1.08;
-- 数据更新修复
+## 2.77;
+- DownloadService: Update notification from another thread only twice per second.
+- Downgrade: Take app name from string resources instead of files
 
-## 1.06;
-- 更新下载服务通知
+## 2.76;
+- Added changelog to settings (About / Version)
+- Replaced "..." with an "…" character
+- Replaced "-" with an "–" character
 
-## 1.05;
-- 添加日志信息
-- 添加修改设置
+## 2.752;
+- Added lovely changelog
