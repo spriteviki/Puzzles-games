@@ -1,9 +1,15 @@
 ## 1.08;
-- Êı¾İ¸üĞÂĞŞ¸´
+- Some translation updates / fixs
+- Minor fixs
+
+## 1.07;
+- DownloadService: Update notification from another thread only twice per second.
+- Downgrade: Take app name from string resources instead of files
 
 ## 1.06;
-- ¸üĞÂÏÂÔØ·şÎñÍ¨Öª
+- Added changelog to settings (About / Version)
+- Replaced "..." with an "â€¦" character
+- Replaced "-" with an "â€“" character
 
 ## 1.05;
-- Ìí¼ÓÈÕÖ¾ĞÅÏ¢
-- Ìí¼ÓĞŞ¸ÄÉèÖÃ
+- Added lovely changelog
