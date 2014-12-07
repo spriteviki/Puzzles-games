@@ -1,16 +1,9 @@
-## 2.78;
-- Some translation updates / fixs
-- Prepared to introducing v3.0
-- Minor fixs
+## 1.08;
+- Êı¾İ¸üĞÂĞŞ¸´
 
-## 2.77;
-- DownloadService: Update notification from another thread only twice per second.
-- Downgrade: Take app name from string resources instead of files
+## 1.06;
+- ¸üĞÂÏÂÔØ·şÎñÍ¨Öª
 
-## 2.76;
-- Added changelog to settings (About / Version)
-- Replaced "..." with an "â€¦" character
-- Replaced "-" with an "â€“" character
-
-## 2.752;
-- Added lovely changelog
+## 1.05;
+- Ìí¼ÓÈÕÖ¾ĞÅÏ¢
+- Ìí¼ÓĞŞ¸ÄÉèÖÃ
